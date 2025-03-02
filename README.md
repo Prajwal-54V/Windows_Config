@@ -18,5 +18,5 @@ Clean minimalistic windows environment setup
   - **Z** folder jumper.
   - other plugins are in **_Microsoft.PowerShell_profile.ps1_**.
 - neovim :
-  - basic plugins are part of **_init.vim_**.
+  - basic plugins are part of **_vimrc.vim_**.
   - > TODO : lua script configuation with more plugins.
